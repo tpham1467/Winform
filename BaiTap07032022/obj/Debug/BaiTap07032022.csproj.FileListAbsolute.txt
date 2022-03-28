@@ -1,0 +1,9 @@
+D:\.Net\Winform\BaiTap07032022\bin\Debug\BaiTap07032022.exe.config
+D:\.Net\Winform\BaiTap07032022\bin\Debug\BaiTap07032022.exe
+D:\.Net\Winform\BaiTap07032022\bin\Debug\BaiTap07032022.pdb
+D:\.Net\Winform\BaiTap07032022\obj\Debug\BaiTap07032022.Form1.resources
+D:\.Net\Winform\BaiTap07032022\obj\Debug\BaiTap07032022.Properties.Resources.resources
+D:\.Net\Winform\BaiTap07032022\obj\Debug\BaiTap07032022.csproj.GenerateResource.cache
+D:\.Net\Winform\BaiTap07032022\obj\Debug\BaiTap07032022.csproj.CoreCompileInputs.cache
+D:\.Net\Winform\BaiTap07032022\obj\Debug\BaiTap07032022.exe
+D:\.Net\Winform\BaiTap07032022\obj\Debug\BaiTap07032022.pdb

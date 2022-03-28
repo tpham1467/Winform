@@ -1,0 +1,8 @@
+D:\.Net\Winform\WindowsFormsControlLibrary1\bin\Debug\WindowsFormsControlLibrary1.dll
+D:\.Net\Winform\WindowsFormsControlLibrary1\bin\Debug\WindowsFormsControlLibrary1.pdb
+D:\.Net\Winform\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.csproj.AssemblyReference.cache
+D:\.Net\Winform\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.UserControl1.resources
+D:\.Net\Winform\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.csproj.GenerateResource.cache
+D:\.Net\Winform\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.csproj.CoreCompileInputs.cache
+D:\.Net\Winform\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.dll
+D:\.Net\Winform\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.pdb

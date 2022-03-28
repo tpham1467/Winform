@@ -1,0 +1,10 @@
+D:\.Net\Winform\BaiTapVeNha\bin\Debug\BaiTapVeNha.exe.config
+D:\.Net\Winform\BaiTapVeNha\bin\Debug\BaiTapVeNha.exe
+D:\.Net\Winform\BaiTapVeNha\bin\Debug\BaiTapVeNha.pdb
+D:\.Net\Winform\BaiTapVeNha\obj\Debug\BaiTapVeNha.csproj.AssemblyReference.cache
+D:\.Net\Winform\BaiTapVeNha\obj\Debug\BaiTapVeNha.Form1.resources
+D:\.Net\Winform\BaiTapVeNha\obj\Debug\BaiTapVeNha.Properties.Resources.resources
+D:\.Net\Winform\BaiTapVeNha\obj\Debug\BaiTapVeNha.csproj.GenerateResource.cache
+D:\.Net\Winform\BaiTapVeNha\obj\Debug\BaiTapVeNha.csproj.CoreCompileInputs.cache
+D:\.Net\Winform\BaiTapVeNha\obj\Debug\BaiTapVeNha.exe
+D:\.Net\Winform\BaiTapVeNha\obj\Debug\BaiTapVeNha.pdb

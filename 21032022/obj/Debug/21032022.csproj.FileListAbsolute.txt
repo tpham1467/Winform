@@ -1,0 +1,13 @@
+D:\.Net\Winform\21032022\bin\Debug\21032022.exe.config
+D:\.Net\Winform\21032022\bin\Debug\21032022.exe
+D:\.Net\Winform\21032022\bin\Debug\21032022.pdb
+D:\.Net\Winform\21032022\obj\Debug\21032022.csproj.AssemblyReference.cache
+D:\.Net\Winform\21032022\obj\Debug\_21032022.Form1.resources
+D:\.Net\Winform\21032022\obj\Debug\_21032022.Properties.Resources.resources
+D:\.Net\Winform\21032022\obj\Debug\21032022.csproj.GenerateResource.cache
+D:\.Net\Winform\21032022\obj\Debug\21032022.csproj.CoreCompileInputs.cache
+D:\.Net\Winform\21032022\obj\Debug\21032022.exe
+D:\.Net\Winform\21032022\obj\Debug\21032022.pdb
+D:\.Net\Winform\21032022\bin\Debug\WindowsFormsControlLibrary1.dll
+D:\.Net\Winform\21032022\bin\Debug\WindowsFormsControlLibrary1.pdb
+D:\.Net\Winform\21032022\obj\Debug\21032022.csproj.CopyComplete

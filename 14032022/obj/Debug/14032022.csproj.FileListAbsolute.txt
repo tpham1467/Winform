@@ -1,0 +1,12 @@
+D:\.Net\Winform\14032022\bin\Debug\14032022.exe.config
+D:\.Net\Winform\14032022\bin\Debug\14032022.exe
+D:\.Net\Winform\14032022\bin\Debug\14032022.pdb
+D:\.Net\Winform\14032022\obj\Debug\14032022.csproj.AssemblyReference.cache
+D:\.Net\Winform\14032022\obj\Debug\_14032022.Form1.resources
+D:\.Net\Winform\14032022\obj\Debug\_14032022.Form3.resources
+D:\.Net\Winform\14032022\obj\Debug\_14032022.Properties.Resources.resources
+D:\.Net\Winform\14032022\obj\Debug\14032022.csproj.GenerateResource.cache
+D:\.Net\Winform\14032022\obj\Debug\14032022.csproj.CoreCompileInputs.cache
+D:\.Net\Winform\14032022\obj\Debug\14032022.exe
+D:\.Net\Winform\14032022\obj\Debug\14032022.pdb
+D:\.Net\Winform\14032022\obj\Debug\_14032022.Form4.resources
